@@ -1,0 +1,1 @@
+CREATE TABLE trainee(ID int,Name varchar(25),course varchar(50),Marks int);

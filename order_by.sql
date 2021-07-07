@@ -1,0 +1,4 @@
+SELECT COUNT(ID), course
+FROM trainee
+GROUP BY course
+ORDER BY COUNT(ID) DESC;
